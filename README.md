@@ -9,6 +9,8 @@
 
 > Simple, accessible routing for Svelte.
 
+**This is the fork of svelte-navigator to work with the Svelte v4**
+
 Svelte Navigator is an accessible and relatively lightweight Single Page App
 Router inspired by [react-router](https://github.com/ReactTraining/react-router)
 and [@reach/router](https://github.com/reach/router).
